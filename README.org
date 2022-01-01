@@ -1,6 +1,8 @@
 #+title: Deep learning resources
+#+options: toc:2
 
 
+* Introduction
 I have found many blogs/articles/books/courses around the internet which talks
 about Machine Learning and Deep Learning. I am creating this repository in which
 I will mention some ~awesome~ resources scattered around the internet and as I
@@ -9,6 +11,14 @@ my learnings alongwith.
 
 This ~repository~ will be a central hub for =learning=.
 
+* Table of contents :TOC:
+- [[#introduction][Introduction]]
+- [[#courses][Courses]]
+- [[#books][Books]]
+- [[#blogs][Blogs]]
+- [[#people][People]]
+- [[#papers][Papers]]
+- [[#frameworks][Frameworks]]
 
 * Courses
 
@@ -39,12 +49,14 @@ My favorite books.
 |----------------------------+--------------------------------------------------------------------------------------------|
 | Dive into Deep Learning    | https://d2l.ai                                                                             |
 | Deep Learning Using Python | https://www.manning.com/books/deep-learning-with-python-second-edition?query=deep%20learni |
-| Deep Learning              | https://amzn.to/3HIx9tx                                                                                           |
+| Deep Learning              | https://amzn.to/3HIx9tx                                                                    |
+|                            |                                                                                            |
 * Blogs
-* Frameworks
 * People
 My favorite people in the AI community and their @twitter
 
 - [[https://twitter.com/JayAlammar][@JayAlammar]]
 - [[https://twitter.com/geoffreyhinton][@geoffreyhinton]]
 - [[https://twitter.com/GuggerSylvain][@GuggerSylvain]]
+* Papers
+* Frameworks
