@@ -24,3 +24,9 @@ Some of the great courses and their links at a single place.
 * Books
 * Blogs
 * Frameworks
+* People
+My favorite people in the AI community and their @twitter
+
+- [[https://twitter.com/JayAlammar][@JayAlammar]]
+- [[https://twitter.com/geoffreyhinton][@geoffreyhinton]]
+- [[https://twitter.com/GuggerSylvain][@GuggerSylvain]]
