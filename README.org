@@ -1,1 +1,26 @@
 #+title: Deep learning resources
+
+
+I have found many blogs/articles/books/courses around the internet which talks
+about Machine Learning and Deep Learning. I am creating this repository in which
+I will mention some ~awesome~ resources scattered around the internet and as I
+complete the books, learn from the courses and read the articles, I will update
+my learnings alongwith.
+
+This ~repository~ will be a central hub for =learning=.
+
+
+* Courses
+
+Some of the great courses and their links at a single place.
+
+| Course                             | Link                                                                     | Taught By                     |
+|------------------------------------+--------------------------------------------------------------------------+-------------------------------|
+| NYU Deep Learning                  | https://atcold.github.io/pytorch-Deep-Learning/                          | Yann LeCun & Alfredo Canziani |
+| Code first into NLP                | https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9 | Rachel Thomas                 |
+| Practical Deep Learning for Coders | https://course.fast.ai                                                   | Jeremy Howard                 |
+| Neural Networks and Deep Learning  | https://www.coursera.org/learn/neural-networks-deep-learning             | Andrew Ng                     |
+
+* Books
+* Blogs
+* Frameworks
