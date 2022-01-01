@@ -14,14 +14,32 @@ This ~repository~ will be a central hub for =learning=.
 
 Some of the great courses and their links at a single place.
 
-| Course                             | Link                                                                     | Taught By                     |
-|------------------------------------+--------------------------------------------------------------------------+-------------------------------|
-| NYU Deep Learning                  | https://atcold.github.io/pytorch-Deep-Learning/                          | Yann LeCun & Alfredo Canziani |
-| Code first into NLP                | https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9 | Rachel Thomas                 |
-| Practical Deep Learning for Coders | https://course.fast.ai                                                   | Jeremy Howard                 |
-| Neural Networks and Deep Learning  | https://www.coursera.org/learn/neural-networks-deep-learning             | Andrew Ng                     |
+| Course                                    | Link                                                                                       | Taught By                                   |
+|-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------|
+| NYU Deep Learning                         | https://atcold.github.io/pytorch-Deep-Learning/                                            | Yann LeCun & Alfredo Canziani               |
+| Code first into NLP                       | https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9                   | Rachel Thomas                               |
+| Practical Deep Learning for Coders        | https://course.fast.ai                                                                     | Jeremy Howard                               |
+| Neural Networks and Deep Learning         | https://www.coursera.org/learn/neural-networks-deep-learning                               | Andrew Ng                                   |
+| Full stack deep learning 2021             | https://fullstackdeeplearning.com/spring2021/                                              | Sergey Karayev, Josh Tobin and Pieter Abbel |
+| CMU Advanced NLP 2021                     | https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6                   | Graham Neubig                               |
+| Deep Reinforcement Learning               | https://simoninithomas.github.io/deep-rl-course/                                           | Thomas Simonini                             |
+| Deepmind Deep Learning Series 2020        | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020                  | Deepmind                                    |
+| Deepmind RL Series 2021                   | https://deepmind.com/learning-resources/reinforcement-learning-series-2021                 | Deepmind                                    |
+| The missing semester of your CS education | https://missing.csail.mit.edu                                                              | MIT                                         |
+| Huggingface course: NLP                   | https://huggingface.co/course/chapter1/1                                                   | Huggingface team                            |
+| ML System Design                          | https://stanford-cs329s.github.io/syllabus.html                                            | Chip Huyen                                  |
+| ML Engineering for Production             | https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops | deeplearning.ai                             |
+|                                           |                                                                                            |                                             |
 
 * Books
+
+My favorite books.
+
+| Book title                 | Link                                                                                       |
+|----------------------------+--------------------------------------------------------------------------------------------|
+| Dive into Deep Learning    | https://d2l.ai                                                                             |
+| Deep Learning Using Python | https://www.manning.com/books/deep-learning-with-python-second-edition?query=deep%20learni |
+| Deep Learning              | https://amzn.to/3HIx9tx                                                                                           |
 * Blogs
 * Frameworks
 * People
