@@ -1,15 +1,6 @@
 #+title: Deep learning resources
 #+options: toc:2
-
-
-* Introduction
-I have found many blogs/articles/books/courses around the internet which talks
-about Machine Learning and Deep Learning. I am creating this repository in which
-I will mention some ~awesome~ resources scattered around the internet and as I
-complete the books, learn from the courses and read the articles, I will update
-my learnings alongwith.
-
-This ~repository~ will be a central hub for =learning=.
+#+startup: overview
 
 * Table of contents :TOC:
 - [[#introduction][Introduction]]
@@ -20,26 +11,37 @@ This ~repository~ will be a central hub for =learning=.
 - [[#papers][Papers]]
 - [[#frameworks][Frameworks]]
 
+* Introduction
+I have found many blogs/articles/books/courses around the internet which talks
+about Machine Learning and Deep Learning. I am creating this repository in which
+I will mention some ~awesome~ resources scattered around the internet and as I
+complete the books, learn from the courses and read the articles, I will update
+my learnings alongwith.
+
+This ~repository~ will be a central hub for =learning=.
+
 * Courses
 
 Some of the great courses and their links at a single place.
 
-| Course                                    | Link                                                                                       | Taught By                                   |
-|-------------------------------------------+--------------------------------------------------------------------------------------------+---------------------------------------------|
-| NYU Deep Learning                         | https://atcold.github.io/pytorch-Deep-Learning/                                            | Yann LeCun & Alfredo Canziani               |
-| Code first into NLP                       | https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9                   | Rachel Thomas                               |
-| Practical Deep Learning for Coders        | https://course.fast.ai                                                                     | Jeremy Howard                               |
-| Neural Networks and Deep Learning         | https://www.coursera.org/learn/neural-networks-deep-learning                               | Andrew Ng                                   |
-| Full stack deep learning 2021             | https://fullstackdeeplearning.com/spring2021/                                              | Sergey Karayev, Josh Tobin and Pieter Abbel |
-| CMU Advanced NLP 2021                     | https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6                   | Graham Neubig                               |
-| Deep Reinforcement Learning               | https://simoninithomas.github.io/deep-rl-course/                                           | Thomas Simonini                             |
-| Deepmind Deep Learning Series 2020        | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020                  | Deepmind                                    |
-| Deepmind RL Series 2021                   | https://deepmind.com/learning-resources/reinforcement-learning-series-2021                 | Deepmind                                    |
-| The missing semester of your CS education | https://missing.csail.mit.edu                                                              | MIT                                         |
-| Huggingface course: NLP                   | https://huggingface.co/course/chapter1/1                                                   | Huggingface team                            |
-| ML System Design                          | https://stanford-cs329s.github.io/syllabus.html                                            | Chip Huyen                                  |
-| ML Engineering for Production             | https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops | deeplearning.ai                             |
-|                                           |                                                                                            |                                             |
+| Course                                    | Link                                                                                        | Taught By                                   |
+|-------------------------------------------+---------------------------------------------------------------------------------------------+---------------------------------------------|
+| NYU Deep Learning                         | https://atcold.github.io/pytorch-Deep-Learning/                                             | Yann LeCun & Alfredo Canziani               |
+| Code first into NLP                       | https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9                    | Rachel Thomas                               |
+| Practical Deep Learning for Coders        | https://course.fast.ai                                                                      | Jeremy Howard                               |
+| Neural Networks and Deep Learning         | https://www.coursera.org/learn/neural-networks-deep-learning                                | Andrew Ng                                   |
+| Full stack deep learning 2021             | https://fullstackdeeplearning.com/spring2021/                                               | Sergey Karayev, Josh Tobin and Pieter Abbel |
+| CMU Advanced NLP 2021                     | https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6                    | Graham Neubig                               |
+| Deep Reinforcement Learning               | https://simoninithomas.github.io/deep-rl-course/                                            | Thomas Simonini                             |
+| Deepmind Deep Learning Series 2020        | https://deepmind.com/learning-resources/deep-learning-lecture-series-2020                   | Deepmind                                    |
+| Deepmind RL Series 2021                   | https://deepmind.com/learning-resources/reinforcement-learning-series-2021                  | Deepmind                                    |
+| The missing semester of your CS education | https://missing.csail.mit.edu                                                               | MIT                                         |
+| Huggingface course: NLP                   | https://huggingface.co/course/chapter1/1                                                    | Huggingface team                            |
+| ML System Design                          | https://stanford-cs329s.github.io/syllabus.html                                             | Chip Huyen                                  |
+| ML Engineering for Production             | https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops  | deeplearning.ai                             |
+| CS224U Natural Language Understanding     | https://www.youtube.com/watch?v=rha64cQRLs8&list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ&index=1 | Stanford                                    |
+| CS224N NLP with Deep Learning             | https://web.stanford.edu/class/cs224n/                                                      | Stanford                                    |
+|                                           |                                                                                             |                                             |
 
 * Books
 
@@ -52,11 +54,22 @@ My favorite books.
 | Deep Learning              | https://amzn.to/3HIx9tx                                                                    |
 |                            |                                                                                            |
 * Blogs
+Blogs written on deep learning and practices in the wild.
+
+- [[https://www.fast.ai/topics/][fastai blogs]]
+- [[https://radekosmulski.com][Radek Osmulski's blogs]]
+He is a fastai-taught AI Research Engineer. He blog about DL techniques and strategies you can leverage to learn faster.
+
 * People
 My favorite people in the AI community and their @twitter
 
 - [[https://twitter.com/JayAlammar][@JayAlammar]]
 - [[https://twitter.com/geoffreyhinton][@geoffreyhinton]]
 - [[https://twitter.com/GuggerSylvain][@GuggerSylvain]]
+- [[https://twitter.com/thesequenceai?s=21][@TheSequenceAI]]
+- [[https://twitter.com/mervenoyann?s=21][@mervenoyann]]
+- [[https://twitter.com/_philschmid?s=21][@_philschmid]]
+- [[https://twitter.com/lvwerra?s=21][@lvwerra]]
+- [[https://twitter.com/thomasviehmann?s=21][@ThomasViehmann]]
 * Papers
 * Frameworks
